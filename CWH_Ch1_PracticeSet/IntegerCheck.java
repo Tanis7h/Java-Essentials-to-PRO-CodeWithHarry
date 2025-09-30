@@ -1,4 +1,4 @@
-package CWH_Ch1_PracticeSett;
+package CWH_Ch1_PracticeSet;
 import java.util.Scanner;
 
 public class IntegerCheck {
