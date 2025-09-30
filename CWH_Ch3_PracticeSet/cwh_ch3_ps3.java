@@ -1,6 +1,6 @@
-package CWH_Ch3_PractiseSet;
+package CWH_Ch3_PracticeSet;
 import java.util.Scanner;
-public class cwh_ch3_ps {
+public class cwh_ch3_ps3 {
     public static void main(String[] args) {
         //Problem 1
         String Name = "To My Friend";

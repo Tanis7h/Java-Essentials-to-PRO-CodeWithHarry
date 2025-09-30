@@ -1,4 +1,4 @@
-package CWH_Ch2_PractiseSet;
+package CWH_Ch2_PracticeSet;
 import java.util.Scanner;
 public class cwh_ch2_ps2_03 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package CWH_Ch3_PractiseSet;
+package CWH_Ch3_PracticeSet;
 
 public class practise {
     public static void main(String[] args) {

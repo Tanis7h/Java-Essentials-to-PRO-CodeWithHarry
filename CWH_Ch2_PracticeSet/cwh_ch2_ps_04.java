@@ -1,6 +1,6 @@
-package CWH_Ch2_PractiseSet;
+package CWH_Ch2_PracticeSet;
 import java.util.Scanner;
-public class cwh_ch2_ps2_04 {
+public class cwh_ch2_ps_04 {
     public static void main(String[] args) {
         System.out.println("Enter The Value: ");
         Scanner a = new Scanner(System.in);
