@@ -1,4 +1,4 @@
-package CWH_Ch1_PracticeSet;
+package CWH_Ch1_PracticeSett;
 import java.util.Scanner;
 
 public class KmToMiles {

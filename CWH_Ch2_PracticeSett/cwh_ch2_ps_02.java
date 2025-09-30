@@ -1,4 +1,4 @@
-package CWH_Ch2_PracticeSet;
+package CWH_Ch2_PracticeSett;
 public class cwh_ch2_ps_02{
     public static void main(String[] args) {
         char grade = 'B';
