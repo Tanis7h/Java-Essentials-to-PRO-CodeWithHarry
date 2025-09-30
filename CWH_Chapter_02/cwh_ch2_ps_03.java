@@ -1,6 +1,6 @@
-package CWH_Ch2_PracticeSet;
+package CWH_Chapter_02;
 import java.util.Scanner;
-public class cwh_ch2_ps2_03 {
+public class cwh_ch2_ps_03 {
     public static void main(String[] args) {
         System.out.println("Enter The Number To Check: ");
         Scanner num1 = new Scanner(System.in);

@@ -1,5 +1,5 @@
-package CWH_Ch2_PracticeSet;
-public class cwh_ch2_ps2_02{
+package CWH_Chapter_02;
+public class cwh_ch2_ps_02{
     public static void main(String[] args) {
         char grade = 'B';
         grade = (char) (grade + 8);

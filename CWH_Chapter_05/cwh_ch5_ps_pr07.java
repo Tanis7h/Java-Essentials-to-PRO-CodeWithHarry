@@ -1,4 +1,4 @@
-package CWH_Ch5_PracticeSet;
+package CWH_Chapter_05;
 
 public class cwh_ch5_ps_pr07 {
     public static void main(String[] args) {

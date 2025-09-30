@@ -1,4 +1,4 @@
-package CWH_Ch1_PracticeSet;
+package CWH_Chapter_01;
 import java.util.Scanner;
 
 public class CGPACalculator{
